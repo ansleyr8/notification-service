@@ -19,4 +19,5 @@ https://notification-service-m7zw.onrender.com/health
 
 - Python3.10
 - FastAPI - REST API framework
-- 
+- Docker - Containerization
+- Render - Deployment
